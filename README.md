@@ -1,6 +1,7 @@
 # Perler Beads Generator
 
 Live demo: https://fenhongtuzi.github.io/Perler_Beads_Generator/
+
            https://jett-wu.github.io/Perler_Beads_Generator/
 
 一个强大的拼豆图纸编辑器，可以把图片转换成可打印的拼豆图纸，也可以像绘图软件一样手动编辑、分层创作、统计用量并导出高清图纸。
